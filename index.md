@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
+# 希尔顿洗衣服务维权
+## 维权背景
 
-You can use the [editor on GitHub](https://github.com/lishoulong/fred-blogs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> **中华人民共和国消费者权益保护法**[链接](https://gkml.samr.gov.cn/nsjg/fgs/201906/t20190625_302783.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+一句话总结：希尔顿酒店在没有告知我家人洗衣服需要收费的前提下，且在产生费用前也没和我家人确认具体的明细项目，我爱人在希尔顿酒店目前已知产生了 2800.25 元的洗衣费用。
 
-### Markdown
+## 时间补充
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> 5/24 日到 5/27 日，希尔顿酒店并没有告知收费项目和核对收费项目，洗了4次衣服，产生的费用有2800.25。
+>
+> 如下截图是洗过的三次衣服的单子，上面的衣服数量以及勾选笔迹都是希尔顿工作人选洗衣服后勾选并填写的，洗衣服之前并没有明确告知我爱人要勾选项目且进行核对。
 
-```markdown
-Syntax highlighted code block
+### 5 月 24 日
 
-# Header 1
-## Header 2
-### Header 3
+我们预定的是5月24日至5月31日，5月24 号入住，酒店在收取衣服时告知我爱人在一个把费用折叠起来的的单子上即可，但没有告知需要收费，也没有和她核对具体的收费项目，我爱人在不知要收费的情况下签了字。
 
-- Bulleted
-- List
+产生费用：748.65 元
 
-1. Numbered
-2. List
+![5:24](https://user-images.githubusercontent.com/16568570/170897895-12cff74a-2780-4359-81cb-06d17f501483.jpg)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### 5 月 25 日
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+产生费用：577.3元
 
-### Jekyll Themes
+![5:25](https://user-images.githubusercontent.com/16568570/170897935-5fe00629-d253-4b87-a447-7c40c51773ed.jpg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lishoulong/fred-blogs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 5 月 26 日
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+产生费用：708.4元
+
+![5:26](https://user-images.githubusercontent.com/16568570/170897946-d7973b51-5038-41ad-abce-5614bd7dda9c.jpg)
+
+
+### 5 月 27 日
+
+费用：765.9 元
+
+![5:27](https://user-images.githubusercontent.com/16568570/170897959-53e123f3-530c-4bd8-a11a-71aa0fac43cc.jpg)
+
+
+## 证据补充
+
+### 录音提供
+
+> 我和阿姨对话，阿姨表明自己是洗衣服务部门，具体收费项目需要问前台，因此在提供服务之前，没有显著的告知消费者需要收费以及收费明细，需要消费者主动询问是否需要收费才会告知此洗衣服务收费。
+
+
+
+### 折叠的格式条款
+
+> 在如下格式条款上，阿姨让我爱人签字、填写日期以及填写房号。而没有主动介绍这个需要收费以及收费明细。甚至具体的费用明细是被折叠起来的，普通消费者不会注意到需要收费的。
+
+![折叠](https://user-images.githubusercontent.com/16568570/170898246-62714eaa-8c8d-46bd-9c94-7d3c04bf1ec2.jpg)
+
+
+
+
+# 法律条款
+
+参考法律是**中华人民共和国消费者权益保护法**。
+
+第三章第二十六条内容如下：
+
+经营者在经营活动中使用格式条款的，应当以显著方式提请消费者注意商品或者服务的数量和质量、价款或者费用、履行期限和方式、安全注意事项和风险警示、售后服务、民事责任等与消费者有重大利害关系的内容，并按照消费者的要求予以说明。
+
+经营者不得以格式条款、通知、声明、店堂告示等方式，作出排除或者限制消费者权利、减轻或者免除经营者责任、加重消费者责任等对消费者不公平、不合理的规定，不得利用格式条款并借助技术手段强制交易。
+
+格式条款、通知、声明、店堂告示等含有前款所列内容的，其内容无效。
+
+- 工作人员给我爱人提供的格式条款是折叠起来的，把价格明细**隐藏**了起来，如「证据补充-折叠的格式条款」所示。且通过「证据补充-录音提供」可知，洗衣阿姨只负责收取衣服，没有告知消费者洗衣需要收费，更别提具体的收费明细了。违反了第二十六条法规显著提请消费者。
+
+- 从「证据补充-时间补充」中图片所示，字迹都是工作人选填写以及勾选的，通过比对此截图字迹与工作人员服务的其他的字迹可以得到结果。工作人员没有在服务之前显著的和消费者核对服务的数量以及费用。违反了第二十六条法规规显著提请消费者。
+
+# 维权结论
+
+希尔顿酒店违反了**中华人民共和国消费者权益保护法第二十六条法规。**因此作为消费者我的权益应该得到保护。
